@@ -1,0 +1,5 @@
+ทำแชทให้คุยผ่านโปรแกรมได้
+สร้างDashBoradให้ดีขึ้น
+สร้างโพสขายด้วยรูปและวิดีโอ
+เชื่อมฐานข้อมูล
+https://ichi.pro/th/chi-python-pheux-sng-khxkhwam-pi-yang-facebook-messenger-api-144560421960414 
